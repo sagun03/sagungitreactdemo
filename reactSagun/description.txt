@@ -1,0 +1,1 @@
+This is a React project named reactSagun, built using Vite for fast and modern web development. It provides a boilerplate setup for building a performant and scalable React application.
